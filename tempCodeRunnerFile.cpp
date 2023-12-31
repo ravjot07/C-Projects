@@ -1,0 +1,2 @@
+void  exponential();
+void  logarithmic(); 
